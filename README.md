@@ -5,10 +5,10 @@
 ![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![开题报告10%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![中期检查20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![结题报告20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![软件作品50%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
+![开题报告10%](https://img.shields.io/badge/开题报告-10%25-wheat)
+![中期检查20%](https://img.shields.io/badge/中期检查-20%25-wheat)
+![结题报告20%](https://img.shields.io/badge/结题报告-20%25-wheat)
+![软件作品50%](https://img.shields.io/badge/软件作品-50%25-wheat)
 
 2017 级大二下、2018、2019 级大二上开设 COMP2024A 软件设计与开发实践A Design and Practice of software (A)。
 
