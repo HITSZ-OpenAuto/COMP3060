@@ -1,0 +1,15 @@
+GroupCourse:
+  Link: ""
+  Desc: "自由组队（1-3人）自由选题做一个工程（小程序、网站也可）"
+  Name: ""
+  Ids: ["", "", ""]
+GradeComposition:
+  - Name: 开题报告
+    Percentage: 10
+  - Name: 中期检查
+    Percentage: 20
+  - Name: 结题报告
+    Percentage: 20
+  - Name: 软件作品
+    Percentage: 50
+CourseHourComposition: []
