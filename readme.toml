@@ -1,7 +1,6 @@
 course_name = "软件构造实践"
-repo_type = "normal"
 course_code = "COMP3060"
-
+repo_type = "normal"
 description = """
 2017 级大二下、2018、2019 级大二上开设 COMP2024A 软件设计与开发实践A Design and Practice of software (A)。
 2020 级改为大二下开设 COMP2028 面向对象的软件构造实践 Practice to Object-oriented Software Construction。
