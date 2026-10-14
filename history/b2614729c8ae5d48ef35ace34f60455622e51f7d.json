@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814722,
+    "hash": "2f4b75d9fc8eb4d631023f9c31b804da23bf8242"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "README.md": {
+    "size": 1274,
+    "time": 1791961515,
+    "hash": "b2614729c8ae5d48ef35ace34f60455622e51f7d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "readme.toml": {
+    "size": 1194,
+    "time": 1773428114,
+    "hash": "d78a66090d5f551a1f6092166bd3b73115830c81"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198127,
+    "hash": "d21325cf1ee0ecc38f92c7c7df6b15781387b92b"
+  },
+  "slides/软件设计与开发实践 A_2020秋.pdf": {
+    "size": 7023246,
+    "time": 1756829404,
+    "hash": "5ad9e0d4a98a05dca4523b9dc9e8e69f46bb2b4c"
+  }
+}
