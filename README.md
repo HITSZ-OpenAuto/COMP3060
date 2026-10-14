@@ -1,12 +1,5 @@
 # COMP3060 - 软件构造实践
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![开题报告10%](https://img.shields.io/badge/开题报告-10%25-wheat)
-![中期检查20%](https://img.shields.io/badge/中期检查-20%25-wheat)
-![结题报告20%](https://img.shields.io/badge/结题报告-20%25-wheat)
-![软件作品50%](https://img.shields.io/badge/软件作品-50%25-wheat)
 
 2017 级大二下、2018、2019 级大二上开设 COMP2024A 软件设计与开发实践A Design and Practice of software (A)。
 2020 级改为大二下开设 COMP2028 面向对象的软件构造实践 Practice to Object-oriented Software Construction。
